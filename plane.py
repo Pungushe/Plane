@@ -1,4 +1,3 @@
-import math
 import os
 import random
 import time
@@ -180,6 +179,7 @@ def check_impact():
                 building.health -= 100
                 print(f'{building.name} - {building.health}')
 
+
 def draw_buildings():
     for building in buildings:
         building.draw()
@@ -233,3 +233,5 @@ while True:
     answer = window.textinput(title='Привет!', prompt='Хотите сыграть еще? д/н')
     if answer.lower() not in ('д', 'да', 'y', 'yes'):
         break
+
+window.mainloop()
