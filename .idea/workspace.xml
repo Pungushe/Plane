@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6280ab5-3d13-4e81-b436-d78d1986832b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/первая игра.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/первая игра.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Planes.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
-    </list>
+    <list default="true" id="d6280ab5-3d13-4e81-b436-d78d1986832b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
